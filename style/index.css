@@ -40,6 +40,10 @@
     font-size: 26px;
   }
 
+  .jumbotron h1 {
+    font-weight: bold;
+  }
+
   .btn-primary {
     color: #ffff;    
     background-color: transparent;
@@ -52,6 +56,8 @@
         background-color: white;
         border-color: white;
         }
-.carousel {
-    max-height: fit-content;
-}
+
+        .thumbnail {
+            background-color: #000000;
+            opacity: 80%;
+        }
