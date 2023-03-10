@@ -1,0 +1,57 @@
+ body {
+    background: #adadad;
+    color: #f7f7f7;
+    font-family: 'Montserrat', sans-serif;   
+    }
+.navbar {
+  margin-bottom: 0;
+  }
+
+  
+  .navbar .navbar-nav .dropdown-menu li a:hover {
+
+
+    background: #e3fff4;
+    
+    
+    }
+    
+    .navbar-toggler {
+        background-color: #f7f7f7;
+        opacity: 70%;
+    }
+    
+    .dropdown-menu li a {  
+    padding: 10px;    
+    }
+
+  .jumbotron {
+    background: #747575;  
+    color: white;
+    text-align: center;
+    justify-content: center;
+  }
+  .jumbotron img{
+    max-width: fit-content;
+    max-height: 400px;
+  }
+  .jumbotron p {
+    color: white;
+    font-size: 26px;
+  }
+
+  .btn-primary {
+    color: #ffff;    
+    background-color: transparent;
+    border-color: white;
+    margin-bottom: 5px;
+    }
+ 
+    .btn-primary:hover {
+        color: #000000;     
+        background-color: white;
+        border-color: white;
+        }
+.carousel {
+    max-height: fit-content;
+}
